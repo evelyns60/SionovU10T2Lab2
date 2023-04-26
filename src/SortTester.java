@@ -28,13 +28,11 @@ public class SortTester {
  */
 
         /*
-
     // EXPERIMENT D
     System.out.println("\n----------- EXPERIMENT D: printing details for array size of 12 -----------");
     int[] arr4 = {6, 10, 8, 1, 3, 9, 18, 0, 20, 13, 2, 4};
     System.out.println("Merge Sort an array with " + arr4.length + " elements\n");
     Sort.mergeSortPrintDetails(arr4);
-
          */
 
 /*
